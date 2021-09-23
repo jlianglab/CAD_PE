@@ -1,6 +1,6 @@
 <!-- ![CAD_PE](http:https://github.com/jlianglab/CAD_PE_Detection/blob/main/images/Tittle_Logo.png) -->
-# Seeking an Optimal Approach for Computer-aided Pulmonary Embolism Detection
-
+# Seeking an Optimal Approach for Computer-aided Pulmonary Embolism Detection <br/>
+(https://github.com/Nahid1992/CAD_PE)
 
 ## Publication
 **Seeking an Optimal Approach for Computer-aided Pulmonary Embolism Detection** <br/>
