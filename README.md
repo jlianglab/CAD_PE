@@ -3,3 +3,7 @@
 # Seeking an Optimal Approach for Computer-aided Pulmonary Embolism Detection
 
 
+## Publication
+This repository provides the official implementation of the following paper:
+**Seeking an Optimal Approach for Computer-aided Pulmonary Embolism Detection**
+Nahid Ul Islam^1, Shiv Gehlot&1, Zongwei Zhou^1, Michael B Gotway^2, and Jianming Liang^1
